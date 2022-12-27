@@ -1,4 +1,4 @@
-# ViewExporter
+# View Exporter
 
 Plugin Revit 2022 para exportar vistas hacia la plataforma Arencox.
 
@@ -18,6 +18,6 @@ Doble click en el archivo .exe.
 
 EVILab, PUC.
 
-## Licensia
+## Licencia
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Este proyecto tiene la licencia MIT; consulte el archivo [LICENSE.md](LICENSE.md) para obtener más información.
