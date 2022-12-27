@@ -1,6 +1,6 @@
 # ViewExporter
 
-One Paragraph of project description goes here
+Plugin Revit 2022 para exportar vistas hacia la plataforma Arencox.
 
 ## Getting Started
 
